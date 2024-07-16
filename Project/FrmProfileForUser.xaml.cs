@@ -27,6 +27,7 @@ namespace Project
             InitializeComponent();
             this.userId = userId;
             LoadData();
+
         }
 
         private void LoadData()

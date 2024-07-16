@@ -193,11 +193,11 @@
                     <TextBox x:Name="txtNumOfCustomer" Margin="5,20,5,5" Height="20" Width="59"/>
                     <Button x:Name="btn_OK" Height="20" Width="50" Content="OK" Margin="5,20,5,5" Style="{StaticResource RoundButtonStyle2}" FontWeight="Bold" FontFamily="Arial" FontSize="14" Click="btn_OK_Click" />
 
-                    <Button x:Name="btn_First" Height="20" Width="50" Content="First" Margin="5,20,5,5" Style="{StaticResource RoundButtonStyle2}" Click="btn_First_Click" FontWeight="Bold" FontFamily="Arial" FontSize="14" />
+                    <Button x:Name="btn_First" Height="20" Width="50" Content="First" Margin="20,20,5,5" Style="{StaticResource RoundButtonStyle2}" Click="btn_First_Click" FontWeight="Bold" FontFamily="Arial" FontSize="14" />
                     <Button x:Name="btn_Previous" Height="20" Width="81" Content="Previous" Margin="5,20,5,5" Style="{StaticResource RoundButtonStyle2}" Click="btn_Previous_Click" FontWeight="Bold" FontFamily="Arial" FontSize="14" />
                     <Button x:Name="btn_Next" Height="20" Width="50" Content="Next" Margin="5,20,5,5" Style="{StaticResource RoundButtonStyle2}" Click="btn_Next_Click" FontWeight="Bold" FontFamily="Arial" FontSize="14" />
                     <Button x:Name="btn_Last" Height="20" Width="50" Content="Last" Margin="5,20,5,5" Style="{StaticResource RoundButtonStyle2}" Click="btn_Last_Click" FontWeight="Bold" FontFamily="Arial" FontSize="14" />
-                    <TextBlock Text="" Name="tb_Paging" HorizontalAlignment="Right" Width="50" Margin="56,0,0,0" VerticalAlignment="Center"/>
+                    <TextBlock Text="" Name="tb_Paging" HorizontalAlignment="Right" Width="30" Margin="56,0,0,5" VerticalAlignment="Bottom"/>
                 </WrapPanel>
 
             </StackPanel>

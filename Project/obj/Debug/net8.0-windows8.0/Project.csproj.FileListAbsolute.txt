@@ -495,3 +495,4 @@ E:\PROJECT\PROJECT\Project\obj\Debug\net8.0-windows8.0\ref\Project.dll
 E:\PROJECT\PROJECT\Project\bin\Debug\net8.0-windows8.0\MaterialDesignColors.dll
 E:\PROJECT\PROJECT\Project\bin\Debug\net8.0-windows8.0\MaterialDesignThemes.Wpf.dll
 E:\PROJECT\PROJECT\Project\bin\Debug\net8.0-windows8.0\Microsoft.Xaml.Behaviors.dll
+E:\PROJECT\PROJECT\Project\obj\Debug\net8.0-windows8.0\Project.sourcelink.json

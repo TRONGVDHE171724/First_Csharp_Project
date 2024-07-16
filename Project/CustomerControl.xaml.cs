@@ -163,6 +163,7 @@ namespace Project
                                                                  u.UserName.ToLower().Contains(searchText) ||
                                                                  u.Email.ToLower().Contains(searchText) ||
                                                                  (u.Role != null && u.Role.RoleName.ToLower().Contains(searchText)))
+
                                                      .Select(u => new
                                                      {
                                                          ID = u.UserId,
